@@ -1,2 +1,1 @@
-![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajekvdf&show_icons=true&theme=midnight-purple) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajekvdf&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajekvdf&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
