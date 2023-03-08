@@ -1,4 +1,4 @@
-#  🌲 About Me <br />
+#  🌲About Me <br />
 Hi! <br />
 I'm 21 y.o. high school teacher and this is my github profile used primarily for school stuff. <br />
 
